@@ -1,0 +1,15 @@
+F:\Courses\C#\Patterns\Structural\Facade\Facade\bin\Debug\net7.0\Facade.exe
+F:\Courses\C#\Patterns\Structural\Facade\Facade\bin\Debug\net7.0\Facade.deps.json
+F:\Courses\C#\Patterns\Structural\Facade\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+F:\Courses\C#\Patterns\Structural\Facade\Facade\bin\Debug\net7.0\Facade.dll
+F:\Courses\C#\Patterns\Structural\Facade\Facade\bin\Debug\net7.0\Facade.pdb
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.dll
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\refint\Facade.dll
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.pdb
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+F:\Courses\C#\Patterns\Structural\Facade\Facade\obj\Debug\net7.0\ref\Facade.dll

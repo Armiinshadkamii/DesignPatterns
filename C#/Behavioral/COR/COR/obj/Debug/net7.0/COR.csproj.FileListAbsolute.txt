@@ -1,0 +1,15 @@
+F:\Courses\C#\Patterns\Behavioral\COR\COR\bin\Debug\net7.0\COR.exe
+F:\Courses\C#\Patterns\Behavioral\COR\COR\bin\Debug\net7.0\COR.deps.json
+F:\Courses\C#\Patterns\Behavioral\COR\COR\bin\Debug\net7.0\COR.runtimeconfig.json
+F:\Courses\C#\Patterns\Behavioral\COR\COR\bin\Debug\net7.0\COR.dll
+F:\Courses\C#\Patterns\Behavioral\COR\COR\bin\Debug\net7.0\COR.pdb
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.csproj.AssemblyReference.cache
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.AssemblyInfoInputs.cache
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.AssemblyInfo.cs
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.dll
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\refint\COR.dll
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.pdb
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\COR.genruntimeconfig.cache
+F:\Courses\C#\Patterns\Behavioral\COR\COR\obj\Debug\net7.0\ref\COR.dll

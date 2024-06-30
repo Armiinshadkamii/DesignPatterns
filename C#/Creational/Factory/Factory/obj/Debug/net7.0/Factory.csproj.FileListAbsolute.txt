@@ -1,0 +1,15 @@
+F:\Courses\C#\Patterns\Creational\Factory\Factory\bin\Debug\net7.0\Factory.exe
+F:\Courses\C#\Patterns\Creational\Factory\Factory\bin\Debug\net7.0\Factory.deps.json
+F:\Courses\C#\Patterns\Creational\Factory\Factory\bin\Debug\net7.0\Factory.runtimeconfig.json
+F:\Courses\C#\Patterns\Creational\Factory\Factory\bin\Debug\net7.0\Factory.dll
+F:\Courses\C#\Patterns\Creational\Factory\Factory\bin\Debug\net7.0\Factory.pdb
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.csproj.AssemblyReference.cache
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.AssemblyInfoInputs.cache
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.AssemblyInfo.cs
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.dll
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\refint\Factory.dll
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.pdb
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\Factory.genruntimeconfig.cache
+F:\Courses\C#\Patterns\Creational\Factory\Factory\obj\Debug\net7.0\ref\Factory.dll

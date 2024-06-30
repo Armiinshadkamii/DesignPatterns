@@ -1,0 +1,15 @@
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\bin\Debug\net7.0\Adapter.exe
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\bin\Debug\net7.0\Adapter.deps.json
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\bin\Debug\net7.0\Adapter.dll
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\bin\Debug\net7.0\Adapter.pdb
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.dll
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.pdb
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+F:\Courses\C#\Patterns\Structural\Adapter\Adapter\obj\Debug\net7.0\ref\Adapter.dll

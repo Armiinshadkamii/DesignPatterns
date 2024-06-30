@@ -1,0 +1,15 @@
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\bin\Debug\net7.0\AbcFactory.exe
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\bin\Debug\net7.0\AbcFactory.deps.json
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\bin\Debug\net7.0\AbcFactory.runtimeconfig.json
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\bin\Debug\net7.0\AbcFactory.dll
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\bin\Debug\net7.0\AbcFactory.pdb
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.csproj.AssemblyReference.cache
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.AssemblyInfoInputs.cache
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.AssemblyInfo.cs
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.dll
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\refint\AbcFactory.dll
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.pdb
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\AbcFactory.genruntimeconfig.cache
+F:\Courses\C#\Patterns\Creational\AbcFactory\AbcFactory\obj\Debug\net7.0\ref\AbcFactory.dll

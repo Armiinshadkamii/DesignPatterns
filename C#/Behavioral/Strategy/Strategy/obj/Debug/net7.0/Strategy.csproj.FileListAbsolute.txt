@@ -1,0 +1,15 @@
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\bin\Debug\net7.0\Strategy.exe
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\bin\Debug\net7.0\Strategy.deps.json
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\bin\Debug\net7.0\Strategy.dll
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\bin\Debug\net7.0\Strategy.pdb
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.dll
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.pdb
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+F:\Courses\C#\Patterns\Behavioral\COR\Strategy\Strategy\obj\Debug\net7.0\ref\Strategy.dll
